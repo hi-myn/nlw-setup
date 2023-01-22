@@ -1,4 +1,5 @@
 # nlw-setup
+
 Projeto desenvolvido com as seguintes tecnologias :
 
 -HTML e CSS
@@ -9,6 +10,7 @@ Projeto desenvolvido com as seguintes tecnologias :
 Feito junto com a Rocketseat, no evento NLW-SETUP, turma explorer
 
 ## 💻Projeto
+
 O Habits é um app para ajudar nos seus hábitos
 
 - [Visite o projeto online](https://hi-myn.github.io/nlw-setup/)
